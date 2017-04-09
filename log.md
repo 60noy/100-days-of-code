@@ -10,3 +10,14 @@ Impressed by the possibilities with Native Base.
 
 **Link to work:** [GitHub Viewer](https://github.com/60noy/react-native-github-viewer)
 
+### Day 1: April 10, 2017 
+ 
+
+**Today's Progress**:  Finished GitHub Viewer Android app 
+
+**Thoughts:** React native is awesome, I read about Flexbox and I designed my app using it.
+However, I have to continue learning more about the possibilities with FlexBox and how combine
+between the Android and IOS versions
+
+**Link to work:** [GitHub Viewer](https://github.com/60noy/react-native-github-viewer)
+
