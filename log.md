@@ -21,3 +21,12 @@ between the Android and IOS versions
 
 **Link to work:** [GitHub Viewer](https://github.com/60noy/react-native-github-viewer)
 
+### Day 2-3: April 10+11, 2017 
+ 
+
+**Today's Progress**:  Finished FCC's Wikipedia Viewer 
+
+**Thoughts:** Finished Wikipedia Viewer App using ReactJS
+
+**Link to work:** [Wikipedia Viewer](https://github.com/60noy/wikipedia-viewer)
+
