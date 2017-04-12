@@ -37,6 +37,6 @@ between the Android and IOS versions
 
 **Thoughts:** Started building the basic structure for Twitch API
 
-**Link to work:** [Twitch API ](https://github.com/60noy/wikipedia-viewer)
+**Link to work:** [Twitch API ](https://github.com/60noy/FCC-twitch-api)
 
 
