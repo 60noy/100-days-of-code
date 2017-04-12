@@ -30,3 +30,13 @@ between the Android and IOS versions
 
 **Link to work:** [Wikipedia Viewer](https://github.com/60noy/wikipedia-viewer)
 
+### Day 4: April 12, 2017 
+ 
+
+**Today's Progress**:  Started Twitch API FCC's Mission
+
+**Thoughts:** Started building the basic structure for Twitch API
+
+**Link to work:** [Twitch API ](https://github.com/60noy/wikipedia-viewer)
+
+
