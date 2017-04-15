@@ -39,13 +39,23 @@ between the Android and IOS versions
 
 **Link to work:** [Twitch API ](https://github.com/60noy/FCC-twitch-api)
 
-### Day 5-6: April 12, 2017 
+### Day 5-6: April 13-14, 2017 
  
 
 **Today's Progress**:  Continued Twitch API mission - fetched data from the API
 
 **Thoughts:** Now I understand when to use Container Component - read 
 Dan Abramov's article https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+
+**Link to work:** [Twitch API ](https://github.com/60noy/FCC-twitch-api)
+
+### Day 7: April 15, 2017 
+ 
+
+**Today's Progress**:  Twitch API - learned more about Promises and used them correctly in the app,
+Only need to fix filter issue and I could upload the project to GH-pages!
+
+**Thoughts:** ES6 Promise is a powerful tool which should be used correctly
 
 **Link to work:** [Twitch API ](https://github.com/60noy/FCC-twitch-api)
 
