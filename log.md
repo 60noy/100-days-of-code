@@ -59,4 +59,14 @@ Only need to fix filter issue and I could upload the project to GH-pages!
 
 **Link to work:** [Twitch API ](https://github.com/60noy/FCC-twitch-api)
 
+### Day 8: April 16, 2017 
+ 
+
+**Today's Progress**:  Finished Twitch API viewer and deployed to gh-pages
+
+**Thoughts:** finally I can advance to the advanced missions
+
+**Link to work:** [Twitch API ](https://60noy.github.io/FCC-twitch-api)
+
+
 
