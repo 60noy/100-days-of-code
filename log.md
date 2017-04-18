@@ -69,4 +69,14 @@ Only need to fix filter issue and I could upload the project to GH-pages!
 **Link to work:** [Twitch API ](https://60noy.github.io/FCC-twitch-api)
 
 
+### Day 9-10: April 17-18, 2017 
+ 
+
+**Today's Progress**:  Worked on FCC mission - React recipe box
+
+**Thoughts:** I should learn Redux
+
+**Link to work:** [Recipe Box ](https://github.com/60noy/FCC-Recipe-Box)
+
+
 
