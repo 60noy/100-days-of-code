@@ -83,7 +83,7 @@ Only need to fix filter issue and I could upload the project to GH-pages!
 
 **Today's Progress**:  Continued working on React Recipe Box
 
-**Thoughts:** I should start a new projet soon
+**Thoughts:** I should start a new projcet soon
 
 **Link to work:** [Recipe Box ](https://github.com/60noy/FCC-Recipe-Box)
 
