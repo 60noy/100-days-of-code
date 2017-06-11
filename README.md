@@ -1,13 +1,46 @@
 # I've joined the #100DaysOfCode Challenge.
+### 100 Days Of Code - Log
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+Day 1: June 9, 2017
+Today's Progress : 
+Started 100 days of code, 
+Started React Netflix Clone - I am full of motivation to do that!
 
-## You can see my progress in the log.md file.
+Thoughts: There are so many tools I should learn in order to develop React apps better.
+Let's start!
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+Link to work: React Netflix Clone
+
+Day 2: June 10, 2017
+
+Today's Progress: 
+Continued with React Netflix clone – Added Semantic UI, Sliders section,
+I was surprised to see there is a new React Router version – v4 with significant difference.
+Trying to learn the new featured and when to use Switch,
+Spending an hour figuring out how to implement the new version >.< 
+Made a header Slider myself – a proud achievement since I want to improve my Flex and CSS skills.
+Today’s achievements: 
+•	Header section
+•	Category Movies section
+•	Figuring out how to read the docs correctly without searching direct answers on Stack Overflow
+
+Link to work: React Netflix Clone
+
+Day 3: June 11, 2017
+
+Today's Progress: 
+Finished React Neflix Clone home page
+Moved from React Router v4 to v3 – My brain cannot understand now how to migrate to the new version.
+Used Radium – pretty nice and straightforward tool for styling in React,
+But I shouldn’t use it for large-scale apps.
+
+
+
+Thoughts: In all  modesty, I think I made a pretty successful clone.
+I seperated the project to the neccessary components and made a very clear structure.
+However, There are a few tools I would like to learn - eg. SCSS and Redux.
+Can't wait to learn more!
+
+Link to work: React Netflix Clone
+
+
