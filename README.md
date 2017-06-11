@@ -1,7 +1,7 @@
 # I've joined the #100DaysOfCode Challenge.
-### 100 Days Of Code - Log
+## 100 Days Of Code - Log
 
-Day 1: June 9, 2017
+### Day 1: June 9, 2017
 Today's Progress : 
 Started 100 days of code, 
 Started React Netflix Clone - I am full of motivation to do that!
@@ -11,7 +11,7 @@ Let's start!
 
 Link to work: React Netflix Clone
 
-Day 2: June 10, 2017
+### Day 2: June 10, 2017
 
 Today's Progress: 
 Continued with React Netflix clone – Added Semantic UI, Sliders section,
@@ -26,7 +26,7 @@ Today’s achievements:
 
 Link to work: React Netflix Clone
 
-Day 3: June 11, 2017
+### Day 3: June 11, 2017
 
 Today's Progress: 
 Finished React Neflix Clone home page
