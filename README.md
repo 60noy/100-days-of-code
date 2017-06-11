@@ -9,7 +9,7 @@ Started React Netflix Clone - I am full of motivation to do that!
 Thoughts: There are so many tools I should learn in order to develop React apps better.
 Let's start!
 
-Link to work: React Netflix Clone
+Link to work: [React Netflix Clone](https://60noy.github.io/NetflixClone)
 
 ### Day 2: June 10, 2017
 
@@ -24,7 +24,7 @@ Today’s achievements:
 •	Category Movies section
 •	Figuring out how to read the docs correctly without searching direct answers on Stack Overflow
 
-Link to work: React Netflix Clone
+Link to work:  [React Netflix Clone](https://60noy.github.io/NetflixClone)
 
 ### Day 3: June 11, 2017
 
@@ -41,6 +41,6 @@ I seperated the project to the neccessary components and made a very clear struc
 However, There are a few tools I would like to learn - eg. SCSS and Redux.
 Can't wait to learn more!
 
-Link to work: React Netflix Clone
+Link to work:  [React Netflix Clone](https://60noy.github.io/NetflixClone)
 
 
