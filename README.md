@@ -43,4 +43,19 @@ Can't wait to learn more!
 
 Link to work:  [React Netflix Clone](https://60noy.github.io/NetflixClone)
 
+### Day 4: June 12, 2017
+
+Today's Progress: 
+Started FreeCodeCamp Mission - Pomodoro Clock using ReactJS and Grommet.
+Also, published an article in Medium explaining how to use Grommet with Webpack 2 after I saw there isn't any tutorial for it -
+[Using Grommet with Webpack 2 — Create React App](https://medium.com/@60noypearl/using-grommet-with-webpack-2-create-react-app-33be9a078b59)
+I mostly built today the skeleton and tomorrow I'm going to make it work :D 
+
+Thoughts: Grommet is a wonderful library, offering a handful of components and very well documented.
+I'm going to learn SASS during this week and implement this knowledge in this project,
+so,
+Good luck to me [This time I won't give up and just use inline css with js]
+
+Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
+
 
