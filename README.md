@@ -58,4 +58,16 @@ Good luck to me [This time I won't give up and just use inline css with js]
 
 Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
 
+### Day 5: June 12, 2017
+
+Today's Progress: 
+Added the functionality, made the clock tick, added stop and start buttons.
+At start I tried to style using scss but I figured out I should make the clock work first and style at the end.
+
+Thoughts: I should improve the structure and make smaller components.
+Tomorrow I will do that and hopefully finish the functionality so
+I could start styling and finally learn SCSS =)
+
+Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
+
 
