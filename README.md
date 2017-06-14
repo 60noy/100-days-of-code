@@ -71,3 +71,16 @@ I could start styling and finally learn SCSS =)
 Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
 
 
+### Day 5: June 13, 2017
+
+Today's Progress: 
+Finished functionality, fixed small error with clock resume and minutes to seconds.
+Designed using Grommet's Box and Headline components
+Thoughts:
+I thought I will learn SCSS during this project but actually Grommet offers so much including 
+easy-to-use flexbox component - Box. For example, instead of justifyContent : 'center' I would justify='center' as a Box attribute.
+After all, I didn't have to use SCSS.
+Although, I had to learn another skill so tomorrow I will learn React animations using ReactCSSTransitionGroup
+
+Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
+
