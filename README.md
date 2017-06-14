@@ -71,7 +71,7 @@ I could start styling and finally learn SCSS =)
 Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
 
 
-### Day 5: June 13, 2017
+### Day 6: June 14, 2017
 
 Today's Progress: 
 Finished functionality, fixed small error with clock resume and minutes to seconds.
