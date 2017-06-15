@@ -84,3 +84,12 @@ Although, I had to learn another skill so tomorrow I will learn React animations
 
 Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
 
+### Day 7: June 15, 2017
+
+Today's Progress: 
+Finished Pomodoro Clock, fixed small issues
+Thoughts:
+This project was very fun, next project I will learn SCSS  
+
+Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
+
