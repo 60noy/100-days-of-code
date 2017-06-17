@@ -93,3 +93,19 @@ This project was very fun, next project I will learn SCSS
 
 Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
 
+### Day 8-9: June 16-17, 2017
+
+Today's Progress: 
+Started Simon game,
+Built the main structure and added SCSS to Webpack
+Thoughts:
+Now I could learn SCSS ![Mission accomplished]
+Link to work:  [Simon Game](### Day 7: June 15, 2017
+
+Today's Progress: 
+Finished Pomodoro Clock, fixed small issues
+Thoughts:
+This project was very fun, next project I will learn SCSS  
+
+Link to work:  [Pomodoro Clock](https://github.com/60noy/Pomodoro-Clock)
+
